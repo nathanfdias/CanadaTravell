@@ -1,2 +1,2 @@
 # CanadaTravell
-Project Trainning in Recat
+Project Trainning in React
